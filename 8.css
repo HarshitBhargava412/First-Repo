@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+    font-family: "Arial";
+    color: white;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 70px;
+}
+
+p {
+    font-family: "sans-serif";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    border: 2px dotted white;
+    background-color: coral;
+    color: white;
+}

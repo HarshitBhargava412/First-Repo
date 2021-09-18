@@ -1,0 +1,19 @@
+body {
+  background-color: #3568db;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.amazing {
+  font-size: 40px;
+  color: black;
+}
+
+input[type="text"] {
+  width: 100%;
+}
+
+input[type="password"] {
+  width: 50%;
+  border: 10px solid red;
+}
